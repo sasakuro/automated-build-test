@@ -1,2 +1,2 @@
-FROM dockersanmples/static-site
+FROM dockersanmples/static-site1
 ENV AUTHOR="sasakuro"
